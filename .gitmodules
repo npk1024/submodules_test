@@ -1,0 +1,6 @@
+[submodule "submodule_first_repo"]
+	path = submodule_first_repo
+	url = git@github.com:npk1024/submodule_first_repo.git
+[submodule "Data_cleaning_Visualization_Data-Mining"]
+	path = Data_cleaning_Visualization_Data-Mining
+	url = git@github.com:npk1024/Data_cleaning_Visualization_Data-Mining.git
